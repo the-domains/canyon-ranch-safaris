@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Canyon Ranch Safaris]]></title>
+        <description><![CDATA[Canyon Ranch Safaris]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 23:17:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Rush family has owned Farm Gaibis and Farm Quaggasnek since the early 1980's and has always been focused on game conservation and development in Namibia, southwest Africa.  Both farms form one ranch of 90,000 acres, more than ten times larger than most game farms. </p>]]></description>
+            <link>undefineded26a08f-d246-4943-a73c-64f1c1b1d607/index.html</link>
+            <guid isPermaLink="false">ed26a08f-d246-4943-a73c-64f1c1b1d607</guid>
+            <pubDate>Fri, 04 Mar 2016 23:17:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
